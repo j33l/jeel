@@ -1,25 +1,24 @@
-# Hi, I'm Fernando Daciuk 👋
+# Hi, I'm Jeel 👋
 
-➤ Software Developer at [@portolab](https://github.com/portolab)  
-➤ Teacher at [@queroserninja](https://queroser.ninja/promocoes)  
-➤ Live Coder at [twitch.tv/fdaciuk](https://twitch.tv/fdaciuk)  
-➤ Building the future of Web3 identity at [degen.bio](https://degen.bio)
+<!-- ➤ Software Developer at [@portolab](https://github.com/portolab)   -->
+<!-- ➤ Teacher at [@queroserninja](https://queroser.ninja/promocoes)   -->
+<!-- ➤ Live Coder at [twitch.tv/fdaciuk](https://twitch.tv/fdaciuk)   -->
+<!-- ➤ Building the future of Web3 identity at [degen.bio](https://degen.bio) -->
 
 ## Techs I'm working with at the moment
 
-➤ Rust  
 ➤ Node.js  
 ➤ React.js  
 ➤ TypeScript  
 ➤ Functional Programming
 
 
-<video autoplay loop playsinline controls src="https://user-images.githubusercontent.com/487669/135340674-64473557-36e7-4d9a-bd19-6f4bb1728eb0.mp4"></video>
+<!-- <video autoplay loop playsinline controls src="https://user-images.githubusercontent.com/487669/135340674-64473557-36e7-4d9a-bd19-6f4bb1728eb0.mp4"></video> -->
 
 To get my contact information, run this command on your terminal:
 
 ```console
-npx fdaciuk
+npx jeel
 ```
 
 ## Credits

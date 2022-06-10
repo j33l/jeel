@@ -1,28 +1,7 @@
 {
-  "name": "Fernando Daciuk",
-  "website": "https://daciuk.dev",
-  "twitch": "https://twitch.tv/fdaciuk",
-  "github": "https://github.com/fdaciuk",
-  "twitter": "https://twitter.com/fdaciuk",
-  "instagram": "https://instagram.com/fdaciuk",
-  "linkedin": "https://linkedin.com/in/fdaciuk",
-  "company": [
-    {
-      "name": "Porto Lab",
-      "position": "Back End Developer",
-      "website": "https://portolab.com.br",
-      "social": {
-        "github": "https://github.com/portolab",
-        "linkedin": "https://www.linkedin.com/company/portolab"
-      }
-    }, {
-      "name": "queroser.ninja",
-      "position": "Founder & Teacher (and everything else)",
-      "website": "https://queroser.ninja",
-      "social": {
-        "github": "https://github.com/queroserninja",
-        "youtube": "https://youtube.com/queroserninja"
-      }
-    }
-  ]
+  "name": "Jeel",
+  "website": "https://jeel.tech",
+  "github": "https://github.com/j33l",
+  "twitter": "https://twitter.com/_je_el",
+  "linkedin": "https://linkedin.com/in/jeel",
 }

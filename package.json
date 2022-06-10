@@ -1,23 +1,23 @@
 {
-  "name": "fdaciuk",
-  "version": "4.0.2",
-  "description": "Fernando Daciuk, the person.",
+  "name": "jeel",
+  "version": "0.0.1",
+  "description": "Jeel, the person.",
   "main": "./info.json",
   "bin": {
-    "fdaciuk": "./fdaciuk.js"
+    "fdaciuk": "./index.js"
   },
   "keywords": [
     "person",
     "contact"
   ],
-  "author": "Fernando Daciuk",
+  "author": "Jeel",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fdaciuk/fdaciuk.git"
+    "url": "git+https://github.com/j33l/jeel.git"
   },
   "bugs": {
-    "url": "https://github.com/fdaciuk/fdaciuk/issues"
+    "url": "https://github.com/j33l/jeel/pulls"
   },
-  "homepage": "https://github.com/fdaciuk/fdaciuk#readme"
+  "homepage": "https://github.com/j33l/jeel#readme"
 }
