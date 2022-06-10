@@ -1,6 +1,6 @@
 {
   "name": "jeel",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Jeel, the person.",
   "main": "./info.json",
   "bin": {
