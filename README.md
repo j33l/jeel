@@ -15,6 +15,8 @@
 
 <!-- <video autoplay loop playsinline controls src="https://user-images.githubusercontent.com/487669/135340674-64473557-36e7-4d9a-bd19-6f4bb1728eb0.mp4"></video> -->
 
+![Example to run the command](./example.gif)
+
 To get my contact information, run this command on your terminal:
 
 ```console
